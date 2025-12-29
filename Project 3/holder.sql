@@ -1,5 +1,5 @@
 CREATE DATABASE IF NOT EXISTS bank;
-USE Bank;
+USE bank;
 CREATE TABLE holder
 (acc_no INT UNIQUE PRIMARY KEY NOT NULL AUTO_INCREMENT,
 acc_type ENUM ('Saving_account','Current_account') NOT NULL,
