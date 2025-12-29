@@ -122,7 +122,7 @@ python main.py
 ## Project Structure
 
 ```
-Bank-Management-System/
+Project 3/
 │
 ├─ main.py            # Program interface, handles user input
 ├─ bank.py            # Core classes (Bank, Saving_account, Current_account)
